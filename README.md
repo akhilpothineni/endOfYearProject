@@ -1,5 +1,9 @@
 # endOfYearProject
 
+To Run the project Run the Unity file Attached
+
+
+
 Trishan Amruthur and Akhil Pothineni
 Sakthikumar
 IBCS Per. 4
